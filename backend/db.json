@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta bic",
+      "price": "0.90"
+    },
+    {
+      "id": 2,
+      "name": "Mac",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung",
+      "price": 5000.89
+    },
+    {
+      "name": "Caneta",
+      "price": "45.33",
+      "id": 4
+    }
+  ]
+}
